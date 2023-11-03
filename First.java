@@ -7,3 +7,7 @@ class First
 System.out.println("Good Evening");
 }
 }
+
+//javac First.java
+//javac -d . First.java
+//java abc.First
