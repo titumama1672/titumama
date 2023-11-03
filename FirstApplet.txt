@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>First Applet </title>
+</head>
+<body>
+<Applet code="FirstApplet.class" width="1024" height="650">
+</Applet>
+</body>

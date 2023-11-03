@@ -1,0 +1,13 @@
+import java.awt.*;
+import java.applet.*;
+
+public class FirstApplet extends Applet
+{
+public void init(){}
+public void paint(Graphics g)
+{
+Font f1=new Font("Times New Roman", Font.BOLD,40);
+g.setFont(f1);
+g.drawString("Hello Java", 550,325);
+}
+}
